@@ -31,7 +31,7 @@ font link: https://fonts.google.com/specimen/Comfortaa
 
 
 ## 1
-![1/cover.png](1/cover.png)
+![1/default.png](1/default.png)
 
 ## 2
 ![2/cover.png](2/cover.png)
